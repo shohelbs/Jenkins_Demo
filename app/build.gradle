@@ -7,7 +7,7 @@ android {
     compileSdk 30
 
     defaultConfig {
-        applicationId "com.thecitybank.jenkinsdemo"
+        applicationId "com.jenkinsdemo"
         minSdk 21
         targetSdk 30
         versionCode 1
