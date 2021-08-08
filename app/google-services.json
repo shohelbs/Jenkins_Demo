@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "289126994843",
+    "firebase_url": "https://project-demo-7be8f.firebaseio.com",
+    "project_id": "project-demo-7be8f",
+    "storage_bucket": "project-demo-7be8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289126994843:android:6782e5f9ee54a763ccc73e",
+        "android_client_info": {
+          "package_name": "com.jenkinsdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289126994843-l8odcilaojh5mef4194ptu74b8a1gg1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkq2KOGtuv19F-SnAcDnU2qcTgBHcALFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "289126994843-l8odcilaojh5mef4194ptu74b8a1gg1p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
